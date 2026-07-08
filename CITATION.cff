@@ -14,7 +14,7 @@ date-released: "2026-07-08"
 license: "notspecified"
 repository-code: "https://github.com/USERNAME/sigma-neuron-mnist"
 # After archiving on Zenodo, add:
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.21263270"
 preferred-citation:
   type: article
   title: "Digital-analogue concept for superconducting perceptron-like neural networks"
