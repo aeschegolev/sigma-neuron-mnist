@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the article."
+title: "Superconducting Sigma-neuron perceptron on MNIST"
+authors:
+  - family-names: Schegolev
+    given-names: Andrey E.
+  - family-names: Kupriyanov
+    given-names: Yuriy M.
+  - family-names: Tereshonok
+    given-names: Maxim V.
+
+version: "1.0.0"
+date-released: "2026-07-08"
+license: "notspecified"
+repository-code: "https://github.com/USERNAME/sigma-neuron-mnist"
+# After archiving on Zenodo, add:
+# doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: "Digital-analogue concept for superconducting perceptron-like neural networks"
+  authors:
+    - family-names: Schegolev
+      given-names: Andrey E.
+  journal: "Physical Review E"
+  year: 2026
+  notes: "Add volume, pages, and DOI once assigned."
